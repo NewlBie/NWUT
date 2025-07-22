@@ -42,20 +42,20 @@ Developed by Newlbie, this script automates critical system repairs while ensuri
 
 Clone or download the repository:
 
-    git clone https://github.com/YourGitHubUsername/windows-update-troubleshooter.git
+    git clone https://github.com/YourGitHubUsername/NWUT.git
 
 Change into the directory:
 
-    cd windows-update-troubleshooter
+    cd NWUT
 
 ---
 
 ## Usage
 
-1. Right-click `fix_windows_update.cmd` and select "Run as administrator"
+1. Right-click `NWUT.cmd` and select "Run as administrator"
 2. Or open an elevated Command Prompt and run:
 
-       fix_windows_update.cmd
+       NWUT.cmd
 
 3. Follow the on-screen prompts:
    - Confirm script execution (Y/N)
